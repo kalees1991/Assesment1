@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_CCE(Prel.)-2018</name>
+   <tag></tag>
+   <elementGuidId>f4cbb3c1-c20e-40f2-a6e6-4671f47121b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updates']/div/div[2]/table/tbody/tr[5]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;CCE(Prel.)-2018&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8b14e313-ea31-4686-9dff-e3d395a34772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CCE(Prel.)-2018</value>
+      <webElementGuid>55c2d886-584a-4bff-8583-3c799b3bce19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updates&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/table[@class=&quot;table table-condensed table-bordered table-striped&quot;]/tbody[1]/tr[5]/td[1]</value>
+      <webElementGuid>2d8f6c9f-5417-4d95-8e07-0e1d2ab1664d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updates']/div/div[2]/table/tbody/tr[5]/td</value>
+      <webElementGuid>ce818798-3a92-4879-98f9-2cc9ceb0bd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[4]/following::td[1]</value>
+      <webElementGuid>14ccd0b7-5a46-412e-bfc4-90c2586867f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CCE(Mains)-2018'])[1]/following::td[2]</value>
+      <webElementGuid>ee7477fe-6f7b-4016-a96b-466c07abbfa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[5]/preceding::td[1]</value>
+      <webElementGuid>3e0b62fb-2317-4eb0-b6cc-d3a0da7c5c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Half Yearly Departmental Examination Form, 2023'])[1]/preceding::td[2]</value>
+      <webElementGuid>1f35c96b-dfa9-4e70-9498-1080736c4e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CCE(Prel.)-2018']/parent::*</value>
+      <webElementGuid>750906a8-0004-4b25-b6e6-ad7f1aa47cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td</value>
+      <webElementGuid>45144313-4a7a-42fa-bbc3-cc46b320c271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'CCE(Prel.)-2018' or . = 'CCE(Prel.)-2018')]</value>
+      <webElementGuid>c54ef11d-0686-4ee1-aa55-75ce6124ce18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,55 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AssamUniversity,Chrome 125.0.0.0,,,13-06-2024 14:30:04,13-06-2024 14:41:40,11m - 36.603s,FAILED
+,,,,,,,
+Test Cases/Assesment1-Assam University/Aboutus,Chrome 125.0.0.0,,,13-06-2024 14:30:04,13-06-2024 14:30:16,12.502s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:30:04,13-06-2024 14:30:06,2.088s,PASSED
+"navigateToUrl(""https://www.apsc.nic.in/index.asp#latest-advt"")",Chrome 125.0.0.0,,,13-06-2024 14:30:06,13-06-2024 14:30:10,3.711s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_About Us""))",Chrome 125.0.0.0,,,13-06-2024 14:30:10,13-06-2024 14:30:11,0.475s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_The Commission""))",Chrome 125.0.0.0,,,13-06-2024 14:30:11,13-06-2024 14:30:11,0.719s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_About Us""))",Chrome 125.0.0.0,,,13-06-2024 14:30:11,13-06-2024 14:30:12,0.400s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_Vision and Mission""))",Chrome 125.0.0.0,,,13-06-2024 14:30:12,13-06-2024 14:30:12,0.566s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_About Us""))",Chrome 125.0.0.0,,,13-06-2024 14:30:12,13-06-2024 14:30:13,0.307s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_Historical Perspective""))",Chrome 125.0.0.0,,,13-06-2024 14:30:13,13-06-2024 14:30:13,0.542s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_About Us""))",Chrome 125.0.0.0,,,13-06-2024 14:30:13,13-06-2024 14:30:13,0.351s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_Duties and Functions""))",Chrome 125.0.0.0,,,13-06-2024 14:30:13,13-06-2024 14:30:14,0.335s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_About Us""))",Chrome 125.0.0.0,,,13-06-2024 14:30:14,13-06-2024 14:30:14,0.333s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_Honble Chairpersons (Past)""))",Chrome 125.0.0.0,,,13-06-2024 14:30:14,13-06-2024 14:30:15,0.581s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_About Us""))",Chrome 125.0.0.0,,,13-06-2024 14:30:15,13-06-2024 14:30:15,0.346s,PASSED
+"click(findTestObject(""Object Repository/AssamUniversity/Page_Assam Public Service Commission/a_Honble Members(Past)""))",Chrome 125.0.0.0,,,13-06-2024 14:30:15,13-06-2024 14:30:16,0.559s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 14:30:16,13-06-2024 14:30:16,0.835s,PASSED
+,,,,,,,
+Test Cases/Assesment1-Assam University/Examination,Chrome 125.0.0.0,,,13-06-2024 14:32:34,13-06-2024 14:33:21,46.358s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:32:34,13-06-2024 14:32:37,2.692s,PASSED
+"navigateToUrl(""https://www.apsc.nic.in/index.asp#latest-advt"")",Chrome 125.0.0.0,,,13-06-2024 14:32:37,13-06-2024 14:32:42,4.583s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_CCE (Prelim.)""))",Chrome 125.0.0.0,,,13-06-2024 14:32:42,13-06-2024 14:32:42,0.304s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Scheme of Examination""))",Chrome 125.0.0.0,,,13-06-2024 14:32:42,13-06-2024 14:32:43,1.192s,PASSED
+"click(findTestObject(""Object Repository/Page_APSC, CCE/i_Read More_fas fa-arrow-right""))",Chrome 125.0.0.0,,,13-06-2024 14:32:43,13-06-2024 14:32:44,0.650s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_CCE (Mains)""))",Chrome 125.0.0.0,,,13-06-2024 14:32:44,13-06-2024 14:33:21,36.912s,FAILED
+,,,,,,,
+Test Cases/Assesment1-Assam University/Forms,Chrome 125.0.0.0,,,13-06-2024 14:36:14,13-06-2024 14:37:11,56.474s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:36:14,13-06-2024 14:36:16,2.390s,PASSED
+"navigateToUrl(""https://www.apsc.nic.in/index.asp#latest-advt"")",Chrome 125.0.0.0,,,13-06-2024 14:36:16,13-06-2024 14:36:20,3.764s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Forms and Downloads""))",Chrome 125.0.0.0,,,13-06-2024 14:36:20,13-06-2024 14:36:33,13.095s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/td_Small Family Norms in Declaration Form-A""))",Chrome 125.0.0.0,,,13-06-2024 14:36:33,13-06-2024 14:36:34,0.346s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Download""))",Chrome 125.0.0.0,,,13-06-2024 14:36:34,13-06-2024 14:36:34,0.438s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/td_Download""))",Chrome 125.0.0.0,,,13-06-2024 14:36:34,13-06-2024 14:37:11,36.415s,FAILED
+,,,,,,,
+Test Cases/Assesment1-Assam University/Home,Chrome 125.0.0.0,,,13-06-2024 14:37:11,13-06-2024 14:37:22,11.329s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:37:11,13-06-2024 14:37:13,2.641s,PASSED
+"navigateToUrl(""https://www.apsc.nic.in/index.asp#latest-advt"")",Chrome 125.0.0.0,,,13-06-2024 14:37:13,13-06-2024 14:37:17,3.845s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Home""))",Chrome 125.0.0.0,,,13-06-2024 14:37:17,13-06-2024 14:37:17,0.332s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Recruitment Advertisements""))",Chrome 125.0.0.0,,,13-06-2024 14:37:17,13-06-2024 14:37:18,0.709s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Syllabus""))",Chrome 125.0.0.0,,,13-06-2024 14:37:18,13-06-2024 14:37:19,0.545s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Corrigendums""))",Chrome 125.0.0.0,,,13-06-2024 14:37:19,13-06-2024 14:37:19,0.524s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Status Of Applications""))",Chrome 125.0.0.0,,,13-06-2024 14:37:19,13-06-2024 14:37:20,0.557s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Call LettersAdmit Cards""))",Chrome 125.0.0.0,,,13-06-2024 14:37:20,13-06-2024 14:37:20,0.560s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Call LettersAdmit Cards""))",Chrome 125.0.0.0,,,13-06-2024 14:37:20,13-06-2024 14:37:21,0.288s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Answer Keys""))",Chrome 125.0.0.0,,,13-06-2024 14:37:21,13-06-2024 14:37:21,0.544s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 14:37:21,13-06-2024 14:37:22,0.687s,PASSED
+,,,,,,,
+Test Cases/Assesment1-Assam University/PhotoGallery,Chrome 125.0.0.0,,,13-06-2024 14:41:23,13-06-2024 14:41:40,17.014s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:41:23,13-06-2024 14:41:26,2.609s,PASSED
+"navigateToUrl(""https://www.apsc.nic.in/index.asp#latest-advt"")",Chrome 125.0.0.0,,,13-06-2024 14:41:26,13-06-2024 14:41:30,3.937s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/a_Photo Gallery""))",Chrome 125.0.0.0,,,13-06-2024 14:41:30,13-06-2024 14:41:35,5.007s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/img_Photo Gallery_hover-shadow cursor""))",Chrome 125.0.0.0,,,13-06-2024 14:41:35,13-06-2024 14:41:37,1.699s,PASSED
+"click(findTestObject(""Object Repository/Page_Assam Public Service Commission/div_""))",Chrome 125.0.0.0,,,13-06-2024 14:41:37,13-06-2024 14:41:40,3.725s,FAILED

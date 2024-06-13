@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Download_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>9d87386c-3a10-4b81-ab8c-64b6e1dc7810</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updates']/div/div[2]/table/tbody/tr[4]/td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;CCE(Mains)-2018 Download&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>274b7ff9-320a-4fde-9f8f-b7a9c14fe0c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>cce_2018/Mains Form_CCE_2018.pdf</value>
+      <webElementGuid>c2dd19bf-f8ff-4015-9ad5-bf95ea60bbca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download</value>
+      <webElementGuid>81681768-922f-42ca-9524-dddd117f6a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updates&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/table[@class=&quot;table table-condensed table-bordered table-striped&quot;]/tbody[1]/tr[4]/td[2]/a[1]</value>
+      <webElementGuid>94eebca5-8b2f-49b1-9eb1-f619c3f26b38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updates']/div/div[2]/table/tbody/tr[4]/td[2]/a</value>
+      <webElementGuid>f8c0dd4f-26e0-47ba-8ca4-32856db8f0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Download')])[5]</value>
+      <webElementGuid>ef555df8-739e-4adc-9bf6-c71925baa8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CCE(Mains)-2018'])[1]/following::a[1]</value>
+      <webElementGuid>024bb826-4617-4aa4-854d-58423278aff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[3]/following::a[1]</value>
+      <webElementGuid>68493b38-bcc3-4b17-9206-9585eb916f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CCE(Prel.)-2018'])[1]/preceding::a[1]</value>
+      <webElementGuid>94a25ff6-855c-4b0e-b422-56a46be60cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[5]/preceding::a[1]</value>
+      <webElementGuid>a59fd913-3ff3-48bb-bbe5-0b548ed53332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'cce_2018/Mains Form_CCE_2018.pdf')]</value>
+      <webElementGuid>8299346e-1d30-4186-bdc9-617beffae50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/a</value>
+      <webElementGuid>2b14fcda-8db6-4a31-86cd-9a5380171582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'cce_2018/Mains Form_CCE_2018.pdf' and (text() = 'Download' or . = 'Download')]</value>
+      <webElementGuid>b1cf854d-bb99-47ac-af4b-f709423e59f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Assam Public Service Commission/div_Photo Gallery_latest_advt_marq",
+      "brokenLocator": "//div[@id\u003d\u0027latest_advt_marq\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Photo Gallery\u0027])[1]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Assam Public Service Commission/div_Photo Gallery_latest_advt_marq_neighbor.png"
+    }
+  ]
+}
